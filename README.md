@@ -26,7 +26,7 @@ Contributions are welcome! If you have suggestions for improvements or features,
 
 ## Acknowledgments
 Inspired by various productivity applications.
-- ### Utilized the following libraries:
+### Utilized the following libraries:
 - Tkinter for GUI development.
 - Pillow for image processing.
 - Matplotlib for data visualization.
