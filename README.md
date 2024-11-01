@@ -17,3 +17,16 @@ This is a to-do list application built using Python's Tkinter library. It allows
 
 ### Prerequisites
 Make sure you have Python 3.x installed on your system. Tkinter comes pre-installed with Python, but you will need to install additional packages.
+
+## Customization
+You can customize the appearance of the application by modifying the font settings and colors in the source code.
+
+### Contributing
+Contributions are welcome! If you have suggestions for improvements or features, feel free to create an issue or submit a pull request.
+
+## Acknowledgments
+Inspired by various productivity applications.
+Utilized the following libraries:
+-Tkinter for GUI development.
+-Pillow for image processing.
+-Matplotlib for data visualization.
