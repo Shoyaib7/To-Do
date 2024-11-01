@@ -1,0 +1,2 @@
+Pillow>=11.0.0      # For image processing (loading and manipulating images)
+matplotlib>=3.5.0  # For creating the pie chart for task statistics
