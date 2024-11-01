@@ -30,3 +30,7 @@ Inspired by various productivity applications.
 - Tkinter for GUI development.
 - Pillow for image processing.
 - Matplotlib for data visualization.
+### Assets are downloaded from:
+- www.flaticon.com
+- Credit for check_icon.png goes to Author hqrloveq
+- Credit for delete_icon.png goes to Author waqasshah
